@@ -25,6 +25,5 @@ The notebook `gain.ipynb` provides a simluation to examine various scenarios.
 
 # Example Output
 
-![daily-gain](fig1.png)
-![histogram](fig2.png)
-![total-gain](fig3.png)
+![ex1](fig1.png)
+![ex2](fig2.png)
