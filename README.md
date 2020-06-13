@@ -28,7 +28,7 @@ The notebook `gain.ipynb` provides a simluation to examine various scenarios.
 ![ex1](fig1.png)
 ![ex2](fig2.png)
 
-| # | Up Days | Normal Return | Leveraged Return | Extremes | Has Positve | Better? |
+| # | Up Days | Normal Return | Leveraged Return | Extremes | Has Positive | Better? |
 | --: | --: | :-: | :-: | --: | :-: | :-: |
 | 1 |  55 (55.0%) | +16.00% | +41.40% | -7.9%, +71.8% | + | + |
 | 2 |  56 (56.0%) | +16.00% | +40.96% | -29.6%, +41.0% | + | + |
