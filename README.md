@@ -27,3 +27,4 @@ The notebook `gain.ipynb` provides a simluation to examine various scenarios.
 
 ![ex1](fig1.png)
 ![ex2](fig2.png)
+![ex3](fig4.png)
